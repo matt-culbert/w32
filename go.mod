@@ -1,3 +1,3 @@
 module github.com/JamesHovious/w32
 
-go 1.19.3
+go 1.19
